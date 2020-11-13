@@ -5,7 +5,7 @@
 
       countdown100: function(options) {
         var defaults = {
-          timeZone: "",
+          timeZone: "Asia/Manila",
           endtimeYear: 0,
           endtimeMonth: 0,
           endtimeDate: 0,
